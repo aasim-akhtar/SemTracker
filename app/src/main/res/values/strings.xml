@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssinmentTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_tracker_window">TrackerWindow</string>
+</resources>
