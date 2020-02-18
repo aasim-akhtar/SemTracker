@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 //i.putExtra("sem",sem.getText().toString(),"sub1",arr[0].getText().toString(),"sub2",arr[1].getText().toString(),"sub3",arr[2].getText().toString(),"sub4",arr[3].getText().toString(),"sub5",arr[4].getText().toString());
 //                i.putExtra("sem",sem,"sub",arr[2].getBytes().toString());
                 i.putExtra("sub",arr.toString());
+                i.putextra("sub2",arr.toString());
 //                i.putExtra("sem",sem);
                 startActivity(i);
             }
